@@ -1,4 +1,4 @@
 # zadanie
 
-Są 3 boki trójkąta
-Obliczyć pole jeśli jest taki trójkąt
+Wziac dzien, miesiac
+Obliczyc ilosc dni od poczatku roku do daty (bez 366-(ile-dzien))
