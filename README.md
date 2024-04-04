@@ -1,4 +1,3 @@
 # zadanie
 
-Są 3 boki trójkąta
-Obliczyć pole jeśli jest taki trójkąt
+Dowolna apka z pętlami while
